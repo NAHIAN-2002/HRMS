@@ -106,7 +106,12 @@ Run the project.
 
 📸 Screenshots
 
-(Add relevant screenshots of your forms here – Login, Dashboard, Job Post, etc.)
+<img width="940" height="452" alt="image" src="https://github.com/user-attachments/assets/05269c29-a90a-415f-b0e3-06634a8f2531" />
+<img width="940" height="438" alt="image" src="https://github.com/user-attachments/assets/12d88705-7181-4f15-8d03-564169d7e2cb" />
+<img width="940" height="528" alt="image" src="https://github.com/user-attachments/assets/6a5a0865-6e1e-49da-92a8-e0f3a37ecca9" />
+<img width="940" height="525" alt="image" src="https://github.com/user-attachments/assets/25edcacd-e966-4bce-8c86-a851473c3a03" />
+
+
 
 👥 Contributors
 
