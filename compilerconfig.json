@@ -1,0 +1,110 @@
+﻿[
+  {
+    "outputFile": "assets/scss/_apply-proces.css",
+    "inputFile": "assets/scss/_apply-proces.scss"
+  },
+  {
+    "outputFile": "assets/scss/_elements.css",
+    "inputFile": "assets/scss/_elements.scss"
+  },
+  {
+    "outputFile": "assets/scss/_blog.css",
+    "inputFile": "assets/scss/_blog.scss"
+  },
+  {
+    "outputFile": "assets/scss/_blog_page.css",
+    "inputFile": "assets/scss/_blog_page.scss"
+  },
+  {
+    "outputFile": "assets/scss/_bradcam.css",
+    "inputFile": "assets/scss/_bradcam.scss"
+  },
+  {
+    "outputFile": "assets/scss/_color.css",
+    "inputFile": "assets/scss/_color.scss"
+  },
+  {
+    "outputFile": "assets/scss/_common.css",
+    "inputFile": "assets/scss/_common.scss"
+  },
+  {
+    "outputFile": "assets/scss/_contact.css",
+    "inputFile": "assets/scss/_contact.scss"
+  },
+  {
+    "outputFile": "assets/scss/_cv-online.css",
+    "inputFile": "assets/scss/_cv-online.scss"
+  },
+  {
+    "outputFile": "assets/scss/_extend.css",
+    "inputFile": "assets/scss/_extend.scss"
+  },
+  {
+    "outputFile": "assets/scss/_featured-Jobs.css",
+    "inputFile": "assets/scss/_featured-Jobs.scss"
+  },
+  {
+    "outputFile": "assets/scss/_footer.css",
+    "inputFile": "assets/scss/_footer.scss"
+  },
+  {
+    "outputFile": "assets/scss/_h1-hero.css",
+    "inputFile": "assets/scss/_h1-hero.scss"
+  },
+  {
+    "outputFile": "assets/scss/_headerMenu.css",
+    "inputFile": "assets/scss/_headerMenu.scss"
+  },
+  {
+    "outputFile": "assets/scss/_job_details.css",
+    "inputFile": "assets/scss/_job_details.scss"
+  },
+  {
+    "outputFile": "assets/scss/_job_listing.css",
+    "inputFile": "assets/scss/_job_listing.scss"
+  },
+  {
+    "outputFile": "assets/scss/_mixins.css",
+    "inputFile": "assets/scss/_mixins.scss"
+  },
+  {
+    "outputFile": "assets/scss/_overlay.css",
+    "inputFile": "assets/scss/_overlay.scss"
+  },
+  {
+    "outputFile": "assets/scss/_pagination.css",
+    "inputFile": "assets/scss/_pagination.scss"
+  },
+  {
+    "outputFile": "assets/scss/_recent.css",
+    "inputFile": "assets/scss/_recent.scss"
+  },
+  {
+    "outputFile": "assets/scss/_services.css",
+    "inputFile": "assets/scss/_services.scss"
+  },
+  {
+    "outputFile": "assets/scss/_services_section.css",
+    "inputFile": "assets/scss/_services_section.scss"
+  },
+  {
+    "outputFile": "assets/scss/_support-company.css",
+    "inputFile": "assets/scss/_support-company.scss"
+  },
+  {
+    "outputFile": "assets/scss/_team.css",
+    "inputFile": "assets/scss/_team.scss"
+  },
+  {
+    "outputFile": "assets/scss/_testimonial.css",
+    "inputFile": "assets/scss/_testimonial.scss"
+  },
+  {
+    "outputFile": "assets/scss/_variables.css",
+    "inputFile": "assets/scss/_variables.scss"
+  },
+  {
+    "outputFile": "assets/scss/style.css",
+    "inputFile": "assets/scss/style.scss"
+  }
+]
